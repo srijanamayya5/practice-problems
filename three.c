@@ -1,5 +1,3 @@
-//program to convert celsius to fahrenheit
-//program for area of circle
 
 #include<stdio.h>
 #include<string.h>
